@@ -1,0 +1,7 @@
+#stream_pagelet, #pagelet_ego_pane, #pagelet_navigation, #stories_pagelet_rhc, #ads-container{
+  display: none;
+}
+
+.core-rail, .feed-shared-news-module,.feed-right-rail, .right-rail-container, .feed-ad__top ad-banner-container{
+  display: none;
+}
